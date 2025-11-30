@@ -1,7 +1,6 @@
 <Solution>
   <Folder Name="/Application/" />
   <Folder Name="/Application/DTOs/" />
-  <Folder Name="/Application/NewFolder1/" />
   <Folder Name="/Application/UseCases/" />
   <Folder Name="/Domain/" />
   <Folder Name="/Domain/DomainEvents/" />
